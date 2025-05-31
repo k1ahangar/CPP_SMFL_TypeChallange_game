@@ -6,7 +6,7 @@ NumberOne is a dynamic and engaging typing game developed in C++ using the SFML 
 ## Table of Contents
 
 -   [Features](#features)
--   [Screenshots](#screenshots)
+
 -   [Prerequisites](#prerequisites)
 -   [Building and Running](#building-and-running)
 -   [How to Play](#how-to-play)
@@ -30,19 +30,6 @@ NumberOne is a dynamic and engaging typing game developed in C++ using the SFML 
     *   Cycle through multiple fonts for the falling words.
 *   **Customizable Assets:** Game assets (fonts, textures, word lists) are loaded from an external `Assets` directory, making them easy to modify.
 
-## Screenshots
-
-*(It's highly recommended to add screenshots or GIFs of the game menu, gameplay, records screen, and instruction screen here to make the README more engaging.)*
-
-**Example:**
-*Main Menu:*
-`[Image of Main Menu]`
-
-*Gameplay:*
-`[GIF of Gameplay]`
-
-*Records Screen:*
-`[Image of Records Screen]`
 
 ## Prerequisites
 
